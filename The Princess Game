@@ -1,0 +1,224 @@
+body {
+	margin: 0;
+	padding: 0;
+	
+}
+
+p {
+	font-family: Arial;
+	font-weight: bold;
+	margin: 20px;
+	font-size: 40px;
+}
+
+.bodyText {
+
+	font-family: PrincessDaisy; 
+	font-size: 30px;
+	line-height: 35px;
+}
+
+
+a {
+	padding: 10px;
+	font-family: PrincessDaisy;
+	font-size: 30px;
+	text-decoration: none;
+	line-height: 40px;
+}
+
+
+ul{
+	list-style: none;
+	padding: 40px;
+
+}
+
+li{
+	margin-top: 50px
+
+}
+
+h1 {
+	margin: auto;
+	background-color: #FF7BAC;
+	color: white;
+	padding: 20px;
+	width: 50px;
+	text-align: center;
+}
+
+#container {
+	margin: auto;
+	width: 80%;
+	padding-top: 50px;
+}
+
+#center {
+	width: 100%;
+	float: left;
+	background-color: white;
+}
+
+#left {
+	float: left;
+	width: 50%;
+	background-color: white;
+}
+
+#right {
+	float: left;
+	width: 50%;
+}
+
+.dance{
+	background: url(../Images/princess_gameover.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+
+
+
+.link {
+	margin: auto;
+	padding: 25px;
+	width: 50%
+}
+
+.pink {
+	background-color: #FF7BAC;
+	color: white;
+	padding: 20px;
+	margin: 20px;
+}
+
+.red {
+	background-color: #F15A24;
+	color: white;
+	padding: 20px;
+	margin: 20px;
+
+}
+
+.blue {
+	background-color: #2E3192;
+	color: white;
+	padding: 20px;
+	margin: 20px;
+}
+
+.gameoverscreen {
+  background-image: url(../Images/pricess_gameover.png);
+}
+
+.bg_img1 {
+	background: url(../Images/princess_frozen_sven.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+
+}
+
+.bg_img2{
+	background: url(../Images/princess_yes_or_no_.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img3{
+	background: url(../Images/princess_game_title_screen.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img4{
+	background: url(../Images/princess_robi_rabbit.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img5{
+	background: url(../Images/princess_world.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img6{
+	background: url(../Images/princess_mermaid_sebastian.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img7{
+	background: url(../Images/princess_mermaid_flounder.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img8{
+	background: url(../Images/princess_mermaid_shell.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img9{
+	background: url(../Images/princess_right_screen.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img10{
+	background: url(../Images/princess_merida.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img11{
+	background: url(../Images/princess_aladdin_tiger.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img12{
+	background: url(../Images/princess_aladdin_genie.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img13{
+	background: url(../Images/princess_aladdin_lamp.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img14{
+	background: url(../Images/princess_jasmine.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img15{
+	background: url(../Images/princess_frozen_ana.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img16{
+	background: url(../Images/princess_frozen_sven.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img17{
+	background: url(../Images/princess_frozen_olaf.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+.bg_img18{
+	background: url(../Images/princess_elsa.png);
+	background-color: #D7D7D7;
+	background-size: cover;
+}
+
+
